@@ -19,7 +19,7 @@
 
 <hr>
 
-#### Light theme while scrollig down:
+#### Light theme while scrolling down:
 <img src="https://user-images.githubusercontent.com/20980869/199034359-3ffcf143-ebce-4ade-abd4-25c30b861087.jpg" 
      width="405" 
      height="810" />
